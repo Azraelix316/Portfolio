@@ -1,0 +1,28 @@
+html {
+  color: white;
+  background-color: black;
+}
+
+strong {
+  color: grey;
+  font-family:Sans-serif;
+  text-align: left;
+}
+.wrap {
+    width: 100%;
+}
+.floatleft {
+    float:left;
+    width: 20%;
+    height: 400px;
+}
+
+.floatright {
+float: right;
+padding-left:5%;
+    height: 400px;
+    width: 20%;
+}
+a {
+  color: grey;
+}
